@@ -41,11 +41,11 @@ Click "Run"
 🧪 Screenshots
 Below you can add screenshots to demonstrate that the app is working:
 
-✅ Login Sent to CleverTap
-
-📩 CleverTap ID Displayed
+✅ User on CleverTap Panel
+![image](https://github.com/user-attachments/assets/9741e91d-4e23-4241-9aee-38845d3185b8)
 
 🛍 Product View Event Sent
+![image](https://github.com/user-attachments/assets/d76722a2-a5d7-4994-975e-2685c9948257)
 
 🛠 Technologies
 Kotlin
