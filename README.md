@@ -41,19 +41,19 @@ Click "Run"
 🧪 Screenshots
 Below you can add screenshots to demonstrate that the app is working:
 
-##✅ User on CleverTap Panel
+✅ ###User on CleverTap Panel
 ![image](https://github.com/user-attachments/assets/9741e91d-4e23-4241-9aee-38845d3185b8)
 
-##🛍 Product View Event Sent
+🛍 ###Product View Event Sent
 ![image](https://github.com/user-attachments/assets/d76722a2-a5d7-4994-975e-2685c9948257)
 
-##💌 Push Message Sent
+💌 ###Push Message Sent
 ![image](https://github.com/user-attachments/assets/34ee1bb0-3b78-4697-bfe9-9e9904597b45)
 
 ![image](https://github.com/user-attachments/assets/80c4ce38-94e1-4608-825c-ee87fe2646f4)
 
 
-##🛠 Technologies
+🛠 ###Technologies
 Kotlin
 
 Jetpack Compose
@@ -62,13 +62,7 @@ CleverTap Android SDK
 
 Firebase (for push configuration)
 
-##📬 Contact
+📬 ###Contact
 For any questions or feedback, feel free to open an issue or contact me directly.
-
-yaml
-Copiar
-Editar
-
----
 
 guilherme.tenarie@gmail.com
