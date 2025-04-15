@@ -1,5 +1,8 @@
 # CleverTap Demo Application
 
+![image](https://github.com/user-attachments/assets/c6fcc14f-9ce2-47a6-89cb-085e52e267b0)
+
+
 This is a simple Android demo application built with Jetpack Compose and CleverTap SDK integration.  
 It demonstrates:
 
