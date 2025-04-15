@@ -34,30 +34,10 @@ It demonstrates:
    ```bash
    git clone https://github.com/your-username/clevertap-demo-app.git
 Open the project in Android Studio
-
-Add your google-services.json to the app/ directory
-(This file can be downloaded from your Firebase Console)
-
-Make sure your AndroidManifest.xml includes the CleverTap FCM service:
-
-xml
-Copiar
-Editar
-<service
-    android:name="com.clevertap.android.sdk.pushnotification.fcm.FcmMessageListenerService"
-    android:exported="true">
-    <intent-filter>
-        <action android:name="com.google.firebase.MESSAGING_EVENT" />
-    </intent-filter>
-</service>
 Connect a device or start an emulator
 
-Click "Run" or use:
+Click "Run"
 
-bash
-Copiar
-Editar
-./gradlew installDebug
 🧪 Screenshots
 Below you can add screenshots to demonstrate that the app is working:
 
